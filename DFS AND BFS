@@ -1,0 +1,10 @@
+from collection import deque
+# A class to represent a graph object
+class Graph:
+  #Constructor
+  def_init_(self,edge,n):
+  self.adjList=[[] for_in range(n)]
+  
+  # add edges to the undirected graph
+  for (src,dest) in edges:
+      self.adj
